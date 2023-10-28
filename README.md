@@ -18,4 +18,3 @@
 </html>
 
 - 🌱 I’m currently learning more about stochastic processes.
-- 👷 I’m currently working on some fun SRE problems at [@cockroachlabs](https://github.com/cockroachdb/).
