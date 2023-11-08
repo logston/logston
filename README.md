@@ -16,5 +16,3 @@
     </p>
   </body>
 </html>
-
-- 🌱 I’m currently learning more about stochastic processes.
